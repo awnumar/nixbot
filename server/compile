@@ -1,0 +1,1 @@
+g++ main.cpp "../includes/file_send.cpp" -o main -lpthread --std=c++0x
